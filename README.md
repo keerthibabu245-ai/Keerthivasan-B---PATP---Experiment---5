@@ -1,6 +1,6 @@
 # Keerthivasan-B---PATP---Experiment---5 
 
-# Experiment-5-Multilayer-Perceptron-MLP-Neural-Network
+# Experiment-5-Multilayer Perceptron-MLP-Neural Network
 
 ## Aim
 
